@@ -106,8 +106,12 @@ else
 
 ## Output  :
 
-![image](https://github.com/user-attachments/assets/eb68be8b-0db7-4982-8ab9-96734f155251)
-![image](https://github.com/user-attachments/assets/08be0640-c4e4-49e9-9267-eeb725311f9d)
+![image](https://github.com/user-attachments/assets/4d15c3b8-68dd-40a8-882c-20695422e701)
+
+
+![image](https://github.com/user-attachments/assets/1107d225-b209-414e-ab83-975864148e47)
+
+
 
 
 
