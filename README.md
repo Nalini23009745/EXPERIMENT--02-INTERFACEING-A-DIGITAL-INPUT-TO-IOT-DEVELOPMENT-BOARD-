@@ -101,7 +101,7 @@ else
 	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,GPIO_PIN_RESET);
 }
 }
-
+```
 
 
 ## Output  :
