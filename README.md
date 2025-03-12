@@ -105,8 +105,11 @@ else
 
 
 ## Output  :
-![WhatsApp Image 2025-03-12 at 11 48 06_79f1d4ea](https://github.com/user-attachments/assets/f5f82d63-79c7-403b-9205-9db0dd7a77d0)
-![WhatsApp Image 2025-03-12 at 11 48 12_1a37ca77](https://github.com/user-attachments/assets/3ae02ff2-9cf4-4e8f-b816-c360e96a2cdd)
+
+![image](https://github.com/user-attachments/assets/eb68be8b-0db7-4982-8ab9-96734f155251)
+![image](https://github.com/user-attachments/assets/08be0640-c4e4-49e9-9267-eeb725311f9d)
+
+
 
 
 
