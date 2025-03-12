@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 12/03/25
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Nalini P
+###  ROLL NO :212223220063
+###  DEPARTMENT: Information Technology
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
@@ -106,10 +106,10 @@ else
 
 ## Output  :
  
- ![iot exp-2 (a)](https://github.com/user-attachments/assets/a99c2cf0-76fa-4c98-908f-8bbce84baa03)
 
- ![exp-2 iot (b)](https://github.com/user-attachments/assets/7a2f19de-538d-4af3-a5b2-f11b986051cd)
+![iot exp-2 (a)](https://github.com/user-attachments/assets/25423d84-d628-4983-a7ac-32b429d7f2f2)
 
- 
+ ![exp-2 iot (b)](https://github.com/user-attachments/assets/54f553c5-9501-4082-b5cf-f89da82339a4)
+
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
